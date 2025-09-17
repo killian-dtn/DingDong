@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Kdant.DingDong/Kdant.DingDong.csproj" />
+  </Folder>
+  <Folder Name="/samples/">
+    <Project Path="samples/Samples.Client.BlazorWasm/Samples.Client.BlazorWasm.csproj" />
+    <Project Path="samples/Samples.Server.MinimalApi/Samples.Server.MinimalApi.csproj" />
+    <Project Path="samples/Samples.Shared/Samples.Shared.csproj" />
+  </Folder>
+</Solution>
